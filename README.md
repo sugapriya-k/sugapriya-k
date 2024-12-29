@@ -3,11 +3,11 @@
 **Aspiring Full-Stack Developer**  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
 
-- 🌱 **Currently learning**: JavaScript, Data Structures, and Algorithms (DSA)  
-- 👯 **Looking to collaborate on**: Beginner-friendly full-stack projects  
-- 🤔 **Looking for help with**: Breaking into FAANG companies  
-- 💬 **Ask me about**: Tech
-- 📫 **How to reach me**:  
+- 🌱 Currently learning: JavaScript, Data Structures, and Algorithms
+- 👯 Looking to collaborate on: Beginner-friendly full-stack projects  
+- 🤔 Looking for help with: Breaking into FAANG companies  
+- 💬 Ask me about: Tech
+- 📫 How to reach me:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/sugapriya-k)  
   [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:sugapriyak.dev@gmail.com)  
 
