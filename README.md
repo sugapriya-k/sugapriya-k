@@ -35,7 +35,7 @@ Stay tuned for more updates as I grow my portfolio and add exciting projects!
 
 ###
 
-<img src="https://raw.githubusercontent.com/sugapriya-k/sugapriya-k/output/snake.svg" alt="Snake Animation" />
+<img src="[https://raw.githubusercontent.com/sugapriya-k/sugapriya-k/output/snake.svg]" alt="Snake Animation" />
 
 
 ###
